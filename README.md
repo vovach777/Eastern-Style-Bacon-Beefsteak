@@ -1,5 +1,7 @@
 # Eastern-Style-Bacon-Beefsteak
 
+[![ru](https://img.shields.io/badge/lang-ru-blue.svg)](README-RU.md)
+
 **"Eastern-Style Bacon Beefsteak" — a unique hot dish combining beef, lamb, and aromatic spices. Crispy bacon, the bold flavor of Sichuan pepper, and tender texture make it a perfect choice for food lovers. Cook it on the grill or in the oven, and serve with sweet and spicy sauce and a fresh salad!"**
 
 ![image](https://github.com/user-attachments/assets/3ebdfd4b-1a46-4df7-b0b3-0720acdc24cd)
